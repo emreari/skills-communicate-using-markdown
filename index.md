@@ -12,3 +12,7 @@ I'm just trying the header sizes.
 ``` python
 print (x+5)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
